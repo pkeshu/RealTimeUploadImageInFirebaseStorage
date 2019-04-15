@@ -1,4 +1,4 @@
-package com.example.keshar.registerloginauthenticationfirebase;
+package com.example.keshar.realtimeuploadimageinfirebasestorageapp;
 
 import android.text.TextUtils;
 import android.util.Patterns;
